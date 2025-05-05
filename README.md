@@ -14,7 +14,7 @@ Model dikembangkan menggunakan algoritma **Decision Tree Classifier** karena sif
 
 ## Hasil Evaluasi
 
-### 🔍 Confusion Matrix
+### Confusion Matrix
 ![Confusion Matrix](image/heatmap.png)
 
 - Model menunjukkan akurasi tinggi dalam mengklasifikasikan **Recon OS Scan** dengan prediksi benar sekitar **17.000 data**.
